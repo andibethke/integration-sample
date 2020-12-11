@@ -4,6 +4,6 @@
   <artifactId>integration-sample</artifactId>
   <version>0.0.1-SNAPSHOT</version>
   <build>
-  	<finalName>integration-sample.jar</finalName>
+  	<finalName>integration-sample</finalName>
   </build>
 </project>
